@@ -1,0 +1,23 @@
+{
+    "args": {},
+    "data": "",
+    "files": {},
+    "form": {
+        "id": 123,
+        "name": "Alamofire"
+    },
+    "headers": {
+        "Accept": "application/json",
+        "Accept-Encoding": "gzip, deflate",
+        "Cache-Control": "no-cache",
+        "Connection": "close",
+        "Content-Length": "272",
+        "Content-Type": "multipart/form-data; boundary=--------------------------805070889017531962041859",
+        "Host": "httpbin.org",
+        "Postman-Token": "258d509e-79c3-408c-a7c9-394a3cd0ee6f",
+        "User-Agent": "PostmanRuntime/7.1.5"
+    },
+    "json": null,
+    "origin": "49.49.251.180",
+    "url": "https://httpbin.org/post"
+}

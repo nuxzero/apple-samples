@@ -1,0 +1,9 @@
+platform :ios, '11.4'
+use_frameworks!
+
+target 'AlamofireSample' do
+    pod 'Alamofire', '~> 4.7'
+    target 'AlamofireSampleTests' do
+        inherit! :search_paths
+    end
+end
